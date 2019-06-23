@@ -4,6 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Title</title>
+    <link rel="stylesheet" href="/build/css/app.css">
 </head>
 <body>
     <div id="page">
